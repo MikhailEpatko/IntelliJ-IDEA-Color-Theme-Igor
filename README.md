@@ -1,4 +1,4 @@
-## IntelliJ IDEA color theme "Igor"
+## IntelliJ IDEA color scheme "Igor"
 
 ### How to install:
 1) Download file `src/Igor.icls`.
