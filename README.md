@@ -6,4 +6,6 @@
 
 Settings... / Appearance & Behavior / Appearance / Editor color scheme / Import Scheme / IntelliJ IDEA color scheme (.icls)...
 
-![screenshot](src/Screenshot.png)
+![screenshot](src/Screenshot1.png)
+
+![screenshot](src/Screenshot2.png)
